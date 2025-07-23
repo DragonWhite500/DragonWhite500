@@ -4,14 +4,14 @@
 
 <p aligh="left">
 <p>
-  ⭐ Hi, I'm a Full-Stack AI Developer & Automation Specialist ⭐
+  ⭐ Hi, I'm a Senior Full-Stack AI Developer & Automation Specialist | AI Agent | Fast MVP | API Integration | DevOps(AWS, Docker, etc) ⭐
 </p> 
 MVP | SaaS | AWS | Python | Next.js
 
 I help startups and businesses build smart, scalable web apps powered by AI and automation.
 <p>
 😎 What I Do:
-✅ Build AI-powered MVPs using OpenAI, LangChain, LlamaIndex \
+<p>✅ Build AI-powered MVPs using OpenAI, LangChain, LlamaIndex</p>
 <p>✅ Automate workflows with n8n and APIs</p>
 <p>✅ Develop full-stack SaaS apps (Next.js + Python/FastAPI)</p>
 <p>✅ Deploy and scale on AWS, Vercel, or Docker</p>
