@@ -1,1 +1,3 @@
 These are my certifications.
+-Build AI Agents with MongoDB
+-IMB MQ on AWS Cloud Developer Essentials
