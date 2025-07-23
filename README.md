@@ -4,7 +4,7 @@
 
 <p aligh="left">
 <p>
-  ⭐ Hi, I'm a Senior Full-Stack AI Developer & Automation Specialist | AI Agent | Fast MVP | API Integration | DevOps(AWS, Docker, etc) ⭐
+  ⭐ Hi, I'm a Senior Full-Stack AI Developer & Automation Specialist | AI Agent | Fast MVP | API Integration | DevOps ⭐
 </p> 
 MVP | SaaS | AWS | Python | Next.js
 
